@@ -71,7 +71,7 @@ function Projects() {
                 Trang cá nhân giới thiệu kỹ năng, dự án, dùng React + TailwindCSS.
               </p>
               <div className="flex gap-3">
-                <a href="#" className="flex-1 bg-sky-600 text-white py-2 px-4 rounded-lg text-center font-medium transition-all hover:bg-sky-500">
+                <a href="https://personal-portfolio-swart-delta.vercel.app/" className="flex-1 bg-sky-600 text-white py-2 px-4 rounded-lg text-center font-medium transition-all hover:bg-sky-500">
                   Live Demo
                 </a>
                 <a href="https://github.com/HuyLe297/Personal-Portfolio" className="flex-1 bg-gray-600 text-white py-2 px-4 rounded-lg text-center font-medium transition-all hover:bg-gray-500">
