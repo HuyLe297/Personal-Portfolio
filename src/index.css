@@ -1,0 +1,25 @@
+@import "tailwindcss";
+/* ===== LÀM ĐẸP SCROLLBAR ===== */
+::-webkit-scrollbar {
+  width: 8px; /* Mỏng hơn */
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; /* Nền trong suốt */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0ea5e9; /* Màu xanh sky-500 */
+  border-radius: 9999px; /* Bo tròn */
+  border: 2px solid #1e293b; /* Viền tối để nổi bật */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0c8cd6; /* Xanh đậm hơn khi hover */
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #0ea5e9 #1e293b;
+}
