@@ -19,7 +19,6 @@ A modern, responsive personal portfolio website built with **React** and **Tailw
 | Category | Technologies |
 |----------|--------------|
 | **Frontend** | React, TailwindCSS, Vite |
-| **Backend (Form)** | Formspree |
 | **Version Control** | Git, GitHub |
 | **Deployment** | Vercel |
 | **Tools** | VS Code, Figma |
