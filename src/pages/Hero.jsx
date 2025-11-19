@@ -12,7 +12,7 @@ function Hero() {
           <span className="text-amber-300 font-bold">React</span> and{" "}
           <span className="text-amber-300 font-bold">TailwindCSS</span>.
         </p>
-      <a href="#proejcts" className='inline-block bg-sky-400 text-slate-900 px-8 py-4 rounded-full font-bold text-lg hover:bg-sky-300 transition shadow-lg'> View my work</a>
+      <a href="#projects" className='inline-block bg-sky-400 text-slate-900 px-8 py-4 rounded-full font-bold text-lg hover:bg-sky-300 transition shadow-lg'> View my work</a>
       </div>
     </section>
   )
