@@ -26,7 +26,7 @@ function Projects() {
                 Web Todo-List, cho phép xem thêm xóa sửa các công việc cần làm dùng ReactJs TailwindCSS + ExpressJS + MongoDB
               </p>
               <div className="flex gap-3">
-                <a href="https://drive.google.com/file/d/1DCbjEOw3PQoY4KOmNgA90bnmbJ0ZROVt/view?usp=drive_link" className="flex-1 bg-sky-600 text-white py-2 px-4 rounded-lg text-center font-medium transition-all hover:bg-sky-500">
+                <a href="https://todo-list-two-taupe.vercel.app/" className="flex-1 bg-sky-600 text-white py-2 px-4 rounded-lg text-center font-medium transition-all hover:bg-sky-500">
                   Live Demo
                 </a>
                 <a href="https://github.com/HuyLe297/Todo-List" className="flex-1 bg-gray-600 text-white py-2 px-4 rounded-lg text-center font-medium transition-all hover:bg-gray-500">
